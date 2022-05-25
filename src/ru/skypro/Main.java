@@ -11,7 +11,6 @@ public class Main {
                 new Bicycle("bicycle1", 2),
                 new Bicycle("bicycle2", 2),
         };
-
         ServiceStation.checkTransport(transportOnWheels[3]);
 
     }
